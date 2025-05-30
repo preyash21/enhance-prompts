@@ -131,9 +131,7 @@ This extension sends your prompts to OpenAI's API. Please don't include sensitiv
 
 ## About the Creator
 
-This ChatGPT Prompt Enhancer was created by [Preyash Shah](https://www.preyash.com/), a product manager and builder based in Lyon, France. Originally from Mumbai, Preyash specializes in launching and scaling SaaS and API products, currently focused on building the next generation of biopharma partnering tools at Inpart.io.
-
-Passionate about turning insights into real solutions, Preyash enjoys blending business strategy, design, and engineering to create products that matter. When not building products professionally, he explores product design and development through side projects like this one.
+This ChatGPT Prompt Enhancer was created by [Preyash Shah](https://www.preyash.com/), a product manager and builder based in Lyon, France. Originally from Mumbai, Preyash specializes in launching and scaling SaaS and API products. He is passionate about turning insights into real solutions and enjoys blending business strategy, design, and engineering to create products that matter. When not building products professionally, he explores product design and development through side projects like this one.
 
 ## Support This Project
 
