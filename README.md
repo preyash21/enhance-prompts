@@ -6,6 +6,9 @@ A browser extension that helps improve your ChatGPT prompts with the click of a 
 
 The ChatGPT Prompt Enhancer adds an "Enhance" button directly to the ChatGPT interface. When you click this button, your prompt is sent to an AI that specializes in improving prompts, and then the enhanced version replaces your original text. This helps you get better, more detailed responses from ChatGPT.
 
+![prompt-enhancer demo](https://github.com/user-attachments/assets/fe77bbe6-acaf-467f-b56f-321c46d29494)
+
+
 ## Benefits
 
 - Makes your ChatGPT prompts clearer and more effective
